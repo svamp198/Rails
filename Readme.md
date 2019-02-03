@@ -3,4 +3,5 @@
 - Parsing
 - Arrays
 - Hashes
-- Conditional Statements
+# Conditional Statements Today I haven't learned in ruby
+- Modules and Files
